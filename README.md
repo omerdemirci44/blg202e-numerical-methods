@@ -3,8 +3,6 @@
 Python solutions for the **Numerical Methods in Computer Engineering (BLG202E)** course,  
 completed at Istanbul Technical University during the 2022–2023 academic year.
 
-The codes are written with **clear English comments** for readability and reuse.
-
 ## Contents
 - **HW1**  
   - Convert rational numbers to binary (exact + repeating detection)  
